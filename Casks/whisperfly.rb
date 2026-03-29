@@ -1,6 +1,6 @@
 cask "whisperfly" do
-  version "1.0.1"
-  sha256 "0f72c7e098c409f6238556f4065953694e20f4620ae3bc5eb8f8550e613addb8"
+  version "1.0.2"
+  sha256 "330512a1898a73704c3396016885c984fef5c423031c814dd254474fdc2b0048"
 
   url "https://github.com/dandysuper/WhisperFly/releases/download/v#{version}/WhisperFly.dmg"
   name "WhisperFly"
